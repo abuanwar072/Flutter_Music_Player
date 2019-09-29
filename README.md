@@ -1,16 +1,15 @@
-# music_player
+# Flutter Music Player
+On dribble i saw this design and i like it very much. And i say already on medium someone build it. As a reference, i use his article.
+[Meduim Flutter Challenge UI: Music Player App](https://medium.com/nusanet/flutter-challenge-ui-music-player-app-b82d7b41c3bd)
 
-A new Flutter project.
+Note that i made some change. I mean, i design this app in my way. So both of our app and code doesn't match.
 
-## Getting Started
+## Project Asset Preparation
+Before starting there are some assets that we need are as follows.
+- No Tears Left To Cry album cover photo
+- Ariana Grande Photo
+- Beautiful Lovina Regular font
+- Coral Pen Font
+- Campton Light font
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
