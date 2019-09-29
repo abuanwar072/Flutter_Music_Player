@@ -55,7 +55,9 @@ class _HomeScreenState extends State<HomeScreen>
             overflow: Overflow.visible,
             children: <Widget>[
               AlbumCover(),
-              TopAppBAr(),
+              TopAppBAr(
+                iconName: Icons.menu,
+              ),
               ArtistName(),
               Positioned(
                 bottom: -25,

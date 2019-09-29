@@ -28,3 +28,6 @@ const kShowAllText = TextStyle(
   fontWeight: FontWeight.w600,
   fontFamily: 'Campton_Light',
 );
+
+const kDuration =
+    TextStyle(fontSize: 16, color: Colors.grey, fontWeight: FontWeight.w800);

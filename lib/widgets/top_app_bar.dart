@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 
 class TopAppBAr extends StatelessWidget {
-  const TopAppBAr({
-    Key key,
-  }) : super(key: key);
+  TopAppBAr({this.iconName});
+  final IconData iconName;
 
   @override
   Widget build(BuildContext context) {
@@ -14,7 +13,7 @@ class TopAppBAr extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: <Widget>[
           Icon(
-            Icons.menu,
+            iconName,
             color: Colors.white,
           ),
           Icon(
